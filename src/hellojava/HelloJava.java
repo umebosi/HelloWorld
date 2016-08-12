@@ -9,6 +9,8 @@ public class HelloJava {
 		fuga();
 
 		guoo();
+
+		zooo();
 	}
 
 	private static void fuga() {
@@ -21,4 +23,8 @@ public class HelloJava {
 		System.out.println("Guoo oooo!");
 	}
 
+	private static void zooo() {
+
+		System.out.println("Zooo oooo!");
+	}
 }
