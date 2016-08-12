@@ -18,6 +18,8 @@ public class HelloJava {
 		bg.bugg();
 		bg.byee();
 
+		hoge();
+
 		System.out.println("**** Bye bye! ****");
 	}
 
@@ -40,4 +42,10 @@ public class HelloJava {
 
 		System.out.println("**** Zzzz zzzz! ****");
 	}
+
+	private static void hoge() {
+
+		System.out.println("**** Hoge eeee! ****");
+	}
+
 }
