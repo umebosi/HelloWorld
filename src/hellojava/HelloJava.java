@@ -4,7 +4,7 @@ public class HelloJava {
 
 	public static void main(String[] args) {
 
-		System.out.println("**** Hello nice to meet you!! ****");
+		System.out.println("**** Hello how are you!! ****");
 
 		fuga();
 
