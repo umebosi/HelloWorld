@@ -17,6 +17,8 @@ public class HelloJava {
 		ByeBug bg = new ByeBug();
 		bg.bugg();
 		bg.byee();
+
+		System.out.println("**** Bye! ****");
 	}
 
 	private static void fuga() {
