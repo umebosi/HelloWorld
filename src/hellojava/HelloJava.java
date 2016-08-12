@@ -11,6 +11,8 @@ public class HelloJava {
 		guoo();
 
 		zooo();
+
+		zzzz();
 	}
 
 	private static void fuga() {
@@ -26,5 +28,10 @@ public class HelloJava {
 	private static void zooo() {
 
 		System.out.println("**** Zooo oooo! ****");
+	}
+
+	private static void zzzz() {
+
+		System.out.println("**** Zzzz zzzz! ****");
 	}
 }
