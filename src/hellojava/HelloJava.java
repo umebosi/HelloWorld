@@ -6,7 +6,19 @@ public class HelloJava {
 
 		System.out.println("Hello world!");
 
-		System.out.println("Fugafuga");
+		fuga();
+
+		guoo();
+	}
+
+	private static void fuga() {
+
+		System.out.println("Fuga fuga!");
+	}
+
+	private static void guoo() {
+
+		System.out.println("Guoo oooo!");
 	}
 
 }
