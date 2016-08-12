@@ -20,6 +20,8 @@ public class HelloJava {
 
 		hoge();
 
+		heke();
+
 		System.out.println("**** Bye bye! ****");
 	}
 
@@ -46,6 +48,11 @@ public class HelloJava {
 	private static void hoge() {
 
 		System.out.println("**** Hoge eeee! ****");
+	}
+
+	private static void heke() {
+
+		System.out.println("**** Heke keke! ****");
 	}
 
 }
