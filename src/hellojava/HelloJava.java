@@ -13,6 +13,9 @@ public class HelloJava {
 		zooo();
 
 		zzzz();
+
+		ByeBug bg = new ByeBug();
+		bg.bugg();
 	}
 
 	private static void fuga() {
