@@ -17,6 +17,7 @@ public class HelloJava {
 		ByeBug bg = new ByeBug();
 		bg.bugg();
 		bg.byee();
+		bg.seeyou();
 
 		hoge();
 
