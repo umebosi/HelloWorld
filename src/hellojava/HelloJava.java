@@ -7,7 +7,7 @@ public class HelloJava {
 		System.out.println("**** Hello how are you!! ****");
 
 		Hi hi = new Hi();
-		hi.howareou();
+		hi.howareyou();
 
 		fuga();
 
