@@ -17,7 +17,7 @@ public class HelloJava {
 
 		zzzz();
 
-		ByeBug bg = new ByeBug();
+		ByeBug2 bg = new ByeBug2();
 		bg.bugg();
 		bg.byee();
 		bg.seeyou();
