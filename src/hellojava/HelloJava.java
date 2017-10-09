@@ -11,9 +11,9 @@ public class HelloJava {
 
 		Hi2 hi = new Hi2();
 		hi.howareyou();
-		//fuga
+
 		fuga();
-		//guoo
+
 		guoo();
 		// zooo
 		zooo();
@@ -24,9 +24,9 @@ public class HelloJava {
 		bg.bugg();
 		bg.byee();
 		bg.seeyou();
-		//hoge
+
 		hoge();
-		//heke
+		//kekeke
 		heke();
 
 		System.out.println("**** Bye bye! ****");
