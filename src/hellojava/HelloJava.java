@@ -11,7 +11,7 @@ public class HelloJava {
 
 		Hi2 hi = new Hi2();
 		hi.howareyou();
-
+		//fugga
 		fuga();
 
 		guoo();
