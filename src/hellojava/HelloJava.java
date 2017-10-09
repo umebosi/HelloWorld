@@ -13,7 +13,7 @@ public class HelloJava {
 		hi.howareyou();
 		//fuga
 		fuga();
-
+		//guoo
 		guoo();
 		// zooo
 		zooo();
@@ -24,9 +24,9 @@ public class HelloJava {
 		bg.bugg();
 		bg.byee();
 		bg.seeyou();
-
+		//hoge
 		hoge();
-
+		//heke
 		heke();
 
 		System.out.println("**** Bye bye! ****");
