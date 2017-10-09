@@ -1,7 +1,7 @@
 package hellojava;
 
 /**
- *
+ * hogehoge
  */
 public class HelloJava {
 
