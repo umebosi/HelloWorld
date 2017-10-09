@@ -26,7 +26,7 @@ public class HelloJava {
 		bg.seeyou();
 
 		hoge();
-
+		//kekeke
 		heke();
 
 		System.out.println("**** Bye bye! ****");
